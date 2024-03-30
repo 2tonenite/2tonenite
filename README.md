@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @2tonenite
-- 👀 I’m interested in ... hacking 
-- 🌱 I’m currently learning ... everything ️👁
-- 💞️ I’m looking to collaborate on ... work
-- 📫 How to reach me ...telegram bandoboutique
+- 👋 Hi, I’m @luci or breeze
+- 👀 I’m interested in ... hacking,cyber,engineering and networking.
+- 🌱 I’m currently learning ... java,python, any creative methods of attk. 
+- 💞️ I’m looking to collaborate on ... projects that matter to me.
+- 📫 How to reach me ... 
 
 <!---
 2tonenite/2tonenite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
